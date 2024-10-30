@@ -1,0 +1,33 @@
+.rianim-outer img{
+	/*width: 100%;
+	height: auto;*/
+	-webkit-transition: all 1s ease;
+	 -moz-transition: all 1s ease;
+	   -o-transition: all 1s ease;
+	  -ms-transition: all 1s ease;
+		  transition: all 1s ease;
+}
+.rianim-outer img:hover{
+	-moz-transform: scale(1.5);
+	  -webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	z-index: 9999999;
+	position: relative;
+}
+
+.rizoomanim{
+	/*width: 100%;
+	height: auto;*/
+	-webkit-transition: all 1s ease;
+	 -moz-transition: all 1s ease;
+	   -o-transition: all 1s ease;
+	  -ms-transition: all 1s ease;
+		  transition: all 1s ease;
+}
+.rizoomanim:hover{
+	-moz-transform: scale(1.5);
+	  -webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	z-index: 9999999;
+	position: relative;
+}
